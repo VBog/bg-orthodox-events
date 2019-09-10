@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<event>
+		<s_month>8</s_month>
+		<s_date>29</s_date>
+		<f_month>8</f_month>
+		<f_date>29</f_date>
+		<name>Молебное пение о страждущих недугом винопиянства или наркомании</name>
+		<link>https://azbyka.ru/molitvoslov/molebnoe-penie-o-strazhdushhix-nedugom-vinopiyanstva-ili-narkomanii.html</link>
+		<discription>Текст утвержден Священным Синодом Русской Православной Церкви 25 июля 2014 года (журнал № 80)</discription>
+		<type>999</type>
+	</event>
+	<event>
+		<s_month>0</s_month>
+		<s_date>57</s_date>
+		<f_month>6</f_month>
+		<f_date>28</f_date>
+		<name>Петров (Апостольский) пост</name>
+		<link></link>
+		<discription></discription>
+		<type>10</type>
+	</event>
+	<event>
+		<s_month>0</s_month>
+		<s_date>0</s_date>
+		<f_month>0</f_month>
+		<f_date>0</f_date>
+		<name></name>
+		<link></link>
+		<discription></discription>
+		<type>0</type>
+	</event>
+</events>
